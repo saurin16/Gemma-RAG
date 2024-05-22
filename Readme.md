@@ -1,6 +1,4 @@
 
-Sure, here's a README.md file for the RAG Model project:
-
 # Retrieval-Augmented Generation (RAG) Model
 
 This repository contains an implementation of a Retrieval-Augmented Generation (RAG) Model using Groq, Gemma Model, and other Python libraries. The RAG Model combines the strengths of an information retrieval system and a generative language model, allowing for accurate and contextual question answering.
